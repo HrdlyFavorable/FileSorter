@@ -3,7 +3,7 @@ import shutil
 import sys
 import time
 import random
-USER = 'preston'
+USER = 'user'
 
 os.chdir(f'/home/{USER}/Downloads/')
 
